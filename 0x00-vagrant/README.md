@@ -80,7 +80,93 @@ $ git push origin main
 <h2 id="project-quiz-questions-title" class="gap">Quiz questions</h2>
 <div class="panel panel-default">
 <div class="panel-body">
-<p id="quiz_questions_collapse_toggle">Show</p>
+<section class="quiz_questions_show_container">
+<div class="quiz_question_item_container" data-role="quiz_question849" data-position="1">
+<div id="quiz_question-849" class=" clearfix">
+<h4 class="quiz_question">Question #0</h4>
+<p>What is a virtual machine?</p>
+<ul class="quiz_question_answers" data-question-id="849">
+<li class=""><input id="quiz-answer-1557520036929" disabled="disabled" name="quiz-answer-1557520036929" type="checkbox" data-quiz-question-id="849" data-quiz-answer-id="1557520036929" />
+<p>A set of servers for software development</p>
+</li>
+<li class=""><input id="quiz-answer-1557520041317" disabled="disabled" name="quiz-answer-1557520041317" type="checkbox" data-quiz-question-id="849" data-quiz-answer-id="1557520041317" />
+<p>A system for developing virtual reality</p>
+</li>
+<li class=""><input id="quiz-answer-1557520042922" checked="checked" disabled="disabled" name="quiz-answer-1557520042922" type="checkbox" data-quiz-question-id="849" data-quiz-answer-id="1557520042922" />
+<p>An emulation of a computer system</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="quiz_question_item_container" data-role="quiz_question850" data-position="2">
+<div id="quiz_question-850" class=" clearfix">
+<h4 class="quiz_question">Question #1</h4>
+<p>Ubuntu is a ____ distribution.</p>
+<ul class="quiz_question_answers" data-question-id="850">
+<li class=""><input id="quiz-answer-1557520149027" disabled="disabled" name="quiz-answer-1557520149027" type="checkbox" data-quiz-question-id="850" data-quiz-answer-id="1557520149027" />
+<p>Windows</p>
+</li>
+<li class=""><input id="quiz-answer-1557520150003" checked="checked" disabled="disabled" name="quiz-answer-1557520150003" type="checkbox" data-quiz-question-id="850" data-quiz-answer-id="1557520150003" />
+<p>Linux</p>
+</li>
+<li class=""><input id="quiz-answer-1557520151141" disabled="disabled" name="quiz-answer-1557520151141" type="checkbox" data-quiz-question-id="850" data-quiz-answer-id="1557520151141" />
+<p>MacOS</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="quiz_question_item_container" data-role="quiz_question851" data-position="3">
+<div id="quiz_question-851" class=" clearfix">
+<h4 class="quiz_question">Question #2</h4>
+<p>What is the difference between Git and GitHub?</p>
+<ul class="quiz_question_answers" data-question-id="851">
+<li class=""><input id="quiz-answer-1557520165977" checked="checked" disabled="disabled" name="quiz-answer-1557520165977" type="checkbox" data-quiz-question-id="851" data-quiz-answer-id="1557520165977" />
+<p>Git is a version control tool; GitHub is an online service built around the Git tool</p>
+</li>
+<li class=""><input id="quiz-answer-1557520167397" disabled="disabled" name="quiz-answer-1557520167397" type="checkbox" data-quiz-question-id="851" data-quiz-answer-id="1557520167397" />
+<p>GitHub is a version control tool; Git is an online service built around the GitHub tool</p>
+</li>
+<li class=""><input id="quiz-answer-1557520168598" disabled="disabled" name="quiz-answer-1557520168598" type="checkbox" data-quiz-question-id="851" data-quiz-answer-id="1557520168598" />
+<p>There is no difference, they have the same functionality</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="quiz_question_item_container" data-role="quiz_question852" data-position="4">
+<div id="quiz_question-852" class=" clearfix">
+<h4 class="quiz_question">Question #3</h4>
+<p>Which of the following is a helpful commit message?</p>
+<ul class="quiz_question_answers" data-question-id="852">
+<li class=""><input id="quiz-answer-1557520235442" disabled="disabled" name="quiz-answer-1557520235442" type="checkbox" data-quiz-question-id="852" data-quiz-answer-id="1557520235442" />
+<p>&ldquo;Fix code&rdquo;</p>
+</li>
+<li class=""><input id="quiz-answer-1557520237021" disabled="disabled" name="quiz-answer-1557520237021" type="checkbox" data-quiz-question-id="852" data-quiz-answer-id="1557520237021" />
+<p>&ldquo;Can someone review this commit?&rdquo;</p>
+</li>
+<li class=""><input id="quiz-answer-1557520238477" checked="checked" disabled="disabled" name="quiz-answer-1557520238477" type="checkbox" data-quiz-question-id="852" data-quiz-answer-id="1557520238477" />
+<p>&ldquo;Fix incorrect parsing of user input&rdquo;</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="quiz_question_item_container" data-role="quiz_question853" data-position="5">
+<div id="quiz_question-853" class=" clearfix">
+<h4 class="quiz_question">Question #4</h4>
+<p>You wrote your first script but it does not execute properly. In order to solve this problem, what&rsquo;s the first thing you should do?</p>
+<ul class="quiz_question_answers" data-question-id="853">
+<li class=""><input id="quiz-answer-1557520537822" disabled="disabled" name="quiz-answer-1557520537822" type="checkbox" data-quiz-question-id="853" data-quiz-answer-id="1557520537822" />
+<p>Ask a peer</p>
+</li>
+<li class=""><input id="quiz-answer-1557520540844" disabled="disabled" name="quiz-answer-1557520540844" type="checkbox" data-quiz-question-id="853" data-quiz-answer-id="1557520540844" />
+<p>Ask a TA</p>
+</li>
+<li class=""><input id="quiz-answer-1557520542316" checked="checked" disabled="disabled" name="quiz-answer-1557520542316" type="checkbox" data-quiz-question-id="853" data-quiz-answer-id="1557520542316" />
+<p>Read the documentation</p>
+</li>
+</ul>
+</div>
+</div>
+</section>
 </div>
 </div>
 <h2 class="gap">Tasks</h2>
