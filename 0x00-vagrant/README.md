@@ -1,14 +1,10 @@
 <div class="hidden-xs navigation sidebar">
-<p>&nbsp;</p>
-<div title="" data-container="body" data-placement="right" data-toggle="tooltip" data-original-title="Slack">&nbsp;</div>
-<div title="" data-container="body" data-placement="right" data-toggle="tooltip" data-original-title="My Profile">&nbsp;</div>
+<h1 class="gap">[Optional] Vagrant</h1>
 </div>
 <main>
-<div id="layout-bars"></div>
 <article class="">
 <div class="project row">
 <div class="col-xs-12 col-md-10 col-lg-8 contains-images">
-<h1 class="gap">[Optional] Vagrant</h1>
 <ul id="project-metadata" class="list-group metadata"></ul>
 <h2>Concepts</h2>
 <div class="panel panel-default">
